@@ -1,0 +1,1 @@
+Test Foursquare API con Android - Fare riferimento al documento su Drive.
